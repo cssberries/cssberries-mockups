@@ -1,0 +1,32 @@
+{
+    "name": "lrc-mockups",
+    "version": "2.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "finder": "node run-slides-finder.js",
+        "startFinder": "npm run start --prefix node_modules/slides-finder",
+        "render": "node run-slides-render.js",
+        "startRender": "npm run start --prefix node_modules/slides-render-angular",
+        "deployTest": "node deploy-test.js",
+        "deployCssberries": "node deploy-cssberries.js",
+        "deployProd": "node deploy-prod.js",
+        "deployFinder": "npm run deployFinder --prefix node_modules/slides-finder",
+        "deployRender": "npm run deployRender --prefix node_modules/slides-render-angular"
+    },
+    "author": "",
+    "dependencies": {
+        "@angular/cli": "^10.1.0",
+        "@ng-bootstrap/ng-bootstrap": "^7.0.0",
+        "angular-tree-component": "^8.5.6",
+        "cross-var": "^1.1.0",
+        "dotenv": "^8.2.0",
+        "glyph-icons-storm": "git+ssh://git@github.houston.softwaregrp.net:yevgeniy-belov/glyph-icons-storm.git#v2.1.100",
+        "npm": "^6.14.8",
+        "simple-git": "^2.21.0",
+        "slides-finder": "git+ssh://git@github.com:cssberries/slides-finder.git#v5.8.0",
+        "slides-render-angular": "git+ssh://git@github.com:cssberries/slides-render-angular.git#v5.3.0",
+        "stylebox": "git+ssh://git@github.houston.softwaregrp.net:yevgeniy-belov/stylebox.git#v2.3.0"
+    },
+    "license": "ISC"
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "slidePath": "../../../../mockups",
+        "name": "mockups",
+        "children": [
+            {
+                "slidePath": "../../../../mockups/YYJRBINFPT",
+                "name": "YYJRBINFPT",
+                "id": "YYJRBINFPT",
+                "state": "mockups/YYJRBINFPT",
+                "index": "\u0004",
+                "component": "YYJRBINFPT"
+            }
+        ],
+        "id": "IFSFEGVRLT",
+        "state": "mockups"
+    }
+]

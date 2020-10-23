@@ -1,0 +1,28 @@
+[
+    {
+        "selected": true,
+        "name": "TC_Peaceful_App",
+        "type": "script-truclient",
+        "vusers": 1000,
+        "startTime": 23,
+        "rampUp": 23,
+        "duration": 23,
+        "tearDown": 23,
+        "preview": "/\\",
+        "location": 23,
+        "active": "checked"
+    },
+    {
+        "selected": true,
+        "name": "My script",
+        "type": "script-web",
+        "vusers": 3000,
+        "startTime": 23,
+        "rampUp": 23,
+        "duration": 23,
+        "tearDown": 23,
+        "preview": "/\\",
+        "location": 23,
+        "active": "checked"
+    }
+]

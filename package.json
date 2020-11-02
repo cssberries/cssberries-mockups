@@ -21,12 +21,12 @@
         "angular-tree-component": "^8.5.6",
         "cross-var": "^1.1.0",
         "dotenv": "^8.2.0",
-        "glyph-icons-storm": "git+ssh://git@github.houston.softwaregrp.net:yevgeniy-belov/glyph-icons-storm.git#v2.1.100",
+        "cssberries-icons": "1.1.0",
+        "cssberries": "1.0.1",
         "npm": "^6.14.8",
         "simple-git": "^2.21.0",
-        "slides-finder": "git+ssh://git@github.com:cssberries/slides-finder.git#v5.8.0",
-        "slides-render-angular": "git+ssh://git@github.com:cssberries/slides-render-angular.git#v5.3.0",
-        "stylebox": "git+ssh://git@github.houston.softwaregrp.net:yevgeniy-belov/stylebox.git#v2.3.0"
+        "slides-finder": "7.2.0",
+        "slides-render-angular": "5.4.0"
     },
     "license": "ISC"
 }

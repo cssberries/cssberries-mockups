@@ -1,8 +1,8 @@
-const slidesRender = require('slides-render-angular');
+const slidesRender = require( 'slides-render-angular' );
 let options = {
-    'ANGULAR_PORT': 5500,
-    'SERVER_PORT': 5300,
-    'SNAPSHOTS_PORT': 5400
+    'ANGULAR_PORT': 8500,
+    'SERVER_PORT': 8300,
+    'SNAPSHOTS_PORT': 8400
 }
 
-slidesRender.run(options);
+slidesRender.run( options );

@@ -1,0 +1,26 @@
+{
+	"foreground":[
+		"weakest",
+		"weaker",
+		"weak",
+		"medium",
+		"strong",
+		"stronger",
+		"strongest"
+	],
+	"background":[
+		"canvas",
+		"aside",
+		"content",
+		"primary",
+		"secondary",
+		"accent",
+		"info",
+		"selected",
+		"error",
+		"warning",
+		"success",
+		"temporary",
+		"draggable"
+	]
+}

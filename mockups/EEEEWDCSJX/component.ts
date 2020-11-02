@@ -3,11 +3,11 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
 @Component({
-    selector: 'YYJRBINFPT',
+    selector: 'EEEEWDCSJX',
     templateUrl: 'template.html',
     
     })
-    export class YYJRBINFPT implements OnInit {
+    export class EEEEWDCSJX implements OnInit {
     constructor(
         private http: HttpClient,
         ) { }
